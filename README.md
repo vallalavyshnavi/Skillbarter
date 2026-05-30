@@ -1,5 +1,6 @@
 SkillBarter – AI-Powered Peer-to-Peer Skill Exchange Platform
 
+
  Overview
 
 SkillBarter is a full-stack peer-to-peer skill exchange platform designed to address youth unemployment by enabling users to teach skills, earn Skill Credits, learn new skills, obtain verified certifications, and connect with employment opportunities.
